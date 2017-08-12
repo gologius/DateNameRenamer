@@ -10,4 +10,4 @@
 1. 任意の文字列とどちらの日時(作成日時or更新日時)を使用するかを指定
 1. Renameボタンを押す
 
-![ファイル名表示](https://github.com/gologius/DateFileRenamer/blob/master/screenshot.png)
+![ファイル名表示](https://github.com/gologius/DateNameRenamer/blob/master/screenshot.png)
